@@ -1,6 +1,6 @@
 Actividad 2
 
-Este proyecto forma parte de la materia Programació y tiene como objetivo practicar la lectura, procesamiento y análisis de archivos CSV en Python.  
+Este proyecto forma parte de la materia lenguajes y tiene como objetivo practicar la lectura, procesamiento y análisis de archivos CSV en Python.  
 El programa analiza registros de entrenamientos de distintos campeones, determina patrones según los días de la semana y genera archivos con estadísticas resumidas en formato CSV y JSON.
 
  Funcionalidades principales
